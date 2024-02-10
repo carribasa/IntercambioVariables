@@ -13,11 +13,6 @@ public class ControladorPuntos : MonoBehaviourPunCallbacks
     // variable para modificar en red
     public string tomarDatosRival = "0";
 
-    void Start()
-    {
-
-    }
-
     // cuando se introduzca un valor en inputField se sincronizan
     public void CambiarValor()
     {
