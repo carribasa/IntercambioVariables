@@ -36,6 +36,11 @@ MonoBehaviour:
   RpcList:
   - ClickRpc
   - DestroyRpc
+  - CambiarValorEnRed
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - EnviarValorEnRed
   DisableAutoOpenWizard: 1
   ShowSettings: 0
-  DevRegionSetOnce: 0
+  DevRegionSetOnce: 1
